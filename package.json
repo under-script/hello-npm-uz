@@ -1,0 +1,23 @@
+{
+  "name": "hello-npm-uz",
+  "version": "1.0.0",
+  "description": "hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/under-script/hello-npm-uz.git"
+  },
+  "keywords": [
+    "hello",
+    "world"
+  ],
+  "author": "Yunusov Abdulmajid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/under-script/hello-npm-uz/issues"
+  },
+  "homepage": "https://github.com/under-script/hello-npm-uz#readme"
+}
